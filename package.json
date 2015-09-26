@@ -8,6 +8,7 @@
   "author": "",
   "license": "",
   "dependencies": {
+    "mithril": "^0.2.0"
   },
   "devDependencies": {
     "babel": "^5.8.23",
