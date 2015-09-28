@@ -3,7 +3,7 @@ import path from 'path';
 
 module.exports = {
   entry: {
-    main: './client/app.js'
+    main: './app/main.js'
   },
   output: {
     path: path.join(__dirname, 'public'),
