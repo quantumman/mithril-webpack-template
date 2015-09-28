@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server -d --color --hot --content-base public/ --port 8080"
+    "dev": "bable-node server.js"
   },
   "author": "",
   "license": "",
